@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Cate 👋
 
-<!--
-**EarthBytes/EarthBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Geoscience Undergraduate | Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm a Geoscience student at Durham University with a strong interest in programming, mathematics and modelling. I enjoy building projects that combine scientific thinking with software development, particularly in geophysics, machine learning and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## About Me
+
+- BSc Geoscience undergraduate
+- Learning Computer Science alongside my degree
+- Interested in Artificial Intelligence & Machine Learning
+- Enjoy mathematics, statistics and scientific programming
+
+---
