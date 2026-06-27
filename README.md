@@ -1,6 +1,6 @@
-## Hi, I'm Cate 👋
+# Hi, I'm Cate 👋
 
-# Geoscience Undergraduate | Machine Learning Engineer
+## Geoscience Undergraduate | Machine Learning Engineer
 
 I'm a Geoscience student at Durham University with a strong interest in machine learning, programming, mathematics, and artificial intelligence. I'm particularly interested in large language models (LLMs), neural networks, designing machine learning algorithms, and creating predictive models. I enjoy building projects that combine software engineering, mathematical thinking, and data-driven problem solving.
 
@@ -38,4 +38,4 @@ I'm a Geoscience student at Durham University with a strong interest in machine 
 
 ---
 
-### Thanks for visiting!
+# Thanks for visiting!
