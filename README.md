@@ -16,11 +16,9 @@ I'm a Geoscience student at Durham University with a strong interest in machine 
 
 ## Currently Working On
 
-- Machine learning classifier for seismic waveforms
+- Check out my recent projects - pinned on my profile!
 - Learning Go
 - Preparing for my Dissertation on using ML for geodynamic observables
-
----
 
 ## Software/Technologies
 
