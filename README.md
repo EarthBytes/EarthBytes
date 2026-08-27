@@ -118,7 +118,6 @@ Domain-specific conversational assistant with real-time, token-level streaming a
 
 ### GitHub Stats
 
-<p align="center">
   <img
     height="165"
     src="https://github-stats-earthbytes.vercel.app/api?username=EarthBytes&show_icons=true&theme=default&hide_border=true"
