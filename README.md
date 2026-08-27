@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://catejames-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cate-james/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/cate-james-b5459b183"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cate_james@outlook.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
 
