@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Cate</h1>
-<h3 align="center">AI/ML Engineer &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; Geoscience @ Durham University</h3>
+<h3 align="center">AI/ML Engineer &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; Geoscience & CS @ Durham University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+production-grade+RAG+%26+LLM+systems;Shipping+full-stack+AI+products+end-to-end;Turning+geodynamic+simulations+into+ML+surrogates;Currently%3A+Lead+Full-Stack+%26+AI+Dev+%40+DUWiT+Hacks" alt="Typing SVG" />
