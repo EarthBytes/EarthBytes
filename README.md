@@ -119,12 +119,14 @@ Domain-specific conversational assistant with real-time, token-level streaming a
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EarthBytes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EarthBytes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EarthBytes&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-stats-earthbytes.vercel.app/api?username=EarthBytes&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="165"
+    src="https://github-stats-earthbytes.vercel.app/api/top-langs/?username=EarthBytes&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
