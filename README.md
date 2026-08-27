@@ -121,11 +121,11 @@ Domain-specific conversational assistant with real-time, token-level streaming a
 <p align="center">
   <img
     height="165"
-    src="https://github-stats-earthbytes.vercel.app/api?username=EarthBytes&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-earthbytes.vercel.app/api?username=EarthBytes&show_icons=true&theme=catppuccin_latte&hide_border=true"
   />
   <img
     height="165"
-    src="https://github-stats-earthbytes.vercel.app/api/top-langs/?username=EarthBytes&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-earthbytes.vercel.app/api/top-langs/?username=EarthBytes&layout=compact&theme=catppuccin_latte&hide_border=true"
   />
 </p>
 
