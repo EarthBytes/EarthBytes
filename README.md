@@ -91,8 +91,9 @@ I’m naturally curious and learn best by building, experimenting with new techn
 <td width="50%" valign="top">
 
 **NEU Surface Detect - CV MLOps Pipeline**
+<p>
 End-to-end computer vision and MLOps system for six-class steel defect classification, achieving 99.07% test accuracy using ResNet18 transfer learning on AWS SageMaker GPU instances. Built a production-style pipeline covering reproducible preprocessing, PyTorch training, MLflow experiment tracking and registry promotion gating, drift detection and automated retraining, typed FastAPI inference, Docker/Kubernetes deployment, and production monitoring.
-
+</p>
 `PyTorch` `AWS SageMaker` `MLflow` `ResNet18` `Kubernetes`
 
 </td>
@@ -101,17 +102,18 @@ End-to-end computer vision and MLOps system for six-class steel defect classific
 <td width="50%" valign="top">
 
 **Pyrithion AI - Multi-Agent Research System**
-
+<p>
 A 5-agent LLM pipeline (Claude + Ollama) with dedicated agents for planning, retrieval, analysis, and report generation. RAG-grounded across 4+ document formats via Qdrant, with Google Drive ingestion and Resend-based report delivery, fully containerised with Docker.
-
+</p>
 `Multi-Agent` `Qdrant` `Google Drive API` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 **NextScene - Transformer-based Recommendation System**
+<p>
 Sequence-based movie recommender built with FastAPI and Next.js, powered by a PyTorch causal transformer trained on MovieLens 20M. CLIP embeddings and vector retrieval surface candidates; optional LightGBM re-ranking and plain-language explanations refine every pick.
-
+</p>
 `Recommendation-system` `Transformers` `PyTorch` `recsys`
 
 
