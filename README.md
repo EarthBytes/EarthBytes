@@ -88,9 +88,9 @@ Microservices system (API gateway + 4 FastAPI services, Celery, PostgreSQL, Redi
 <td width="50%" valign="top">
 
 **NEU Surface Detect - CV MLOps Pipeline**
-End-to-end computer vision pipeline hitting **99.07% test accuracy** on 6-class steel defect classification. ResNet18 fine-tuned via transfer learning on AWS SageMaker GPU instances, with an MLflow-backed retraining loop, drift detection, and registry promotion gating.
+End-to-end computer vision and MLOps system for six-class steel defect classification, achieving 99.07% test accuracy using ResNet18 transfer learning on AWS SageMaker GPU instances. Built a production-style pipeline covering reproducible preprocessing, PyTorch training, MLflow experiment tracking and registry promotion gating, drift detection and automated retraining, typed FastAPI inference, Docker/Kubernetes deployment, and production monitoring.
 
-`PyTorch` `AWS SageMaker` `MLflow` `ResNet18`
+`PyTorch` `AWS SageMaker` `MLflow` `ResNet18` `Kubernetes`
 
 </td>
 </tr>
