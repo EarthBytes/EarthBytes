@@ -80,7 +80,10 @@ I’m naturally curious and learn best by building, experimenting with new techn
 <td width="50%" valign="top">
 
 **Production-Style RAG Platform**
-Microservices system (API gateway + 4 FastAPI services, Celery, PostgreSQL, Redis, Qdrant) for cited document Q&A across PDF/DOCX/TXT/HTML. Structured-output validation via Pydantic, model versioning, CI, and Prometheus/Grafana observability, with retry & circuit-breaker resilience around LLM provider outages.
+<p>
+  Microservices system (API gateway + 4 FastAPI services, Celery, PostgreSQL, Redis, Qdrant) for cited document Q&A across PDF/DOCX/TXT/HTML. Structured-output validation via Pydantic, model versioning, CI, and Prometheus/Grafana observability, with retry & circuit-breaker resilience around LLM provider outages.
+</p>
+
 
 `FastAPI` `Celery` `Qdrant` `Redis` `Prometheus`
 
@@ -98,6 +101,7 @@ End-to-end computer vision and MLOps system for six-class steel defect classific
 <td width="50%" valign="top">
 
 **Pyrithion AI - Multi-Agent Research System**
+
 A 5-agent LLM pipeline (Claude + Ollama) with dedicated agents for planning, retrieval, analysis, and report generation. RAG-grounded across 4+ document formats via Qdrant, with Google Drive ingestion and Resend-based report delivery, fully containerised with Docker.
 
 `Multi-Agent` `Qdrant` `Google Drive API` `Docker`
