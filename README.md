@@ -105,8 +105,8 @@ A 5-agent LLM pipeline (Claude + Ollama) with dedicated agents for planning, ret
 </td>
 <td width="50%" valign="top">
 
-**Jude - Geoscience AI Assistant**
-Domain-specific conversational assistant with real-time, token-level streaming and mid-generation cancellation via Server-Sent Events. Multi-provider LLM orchestration (Gemini primary, Groq fallback) keeps it responsive under rate limits.
+**NextScene - Geoscience AI Assistant**
+Sequence-based movie recommender built with FastAPI and Next.js, powered by a PyTorch causal transformer trained on MovieLens 20M. CLIP embeddings and vector retrieval surface candidates; optional LightGBM re-ranking and plain-language explanations refine every pick.
 
 `React` `FastAPI` `SSE` `Multi-Provider LLM`
 
