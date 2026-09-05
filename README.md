@@ -108,7 +108,9 @@ A 5-agent LLM pipeline (Claude + Ollama) with dedicated agents for planning, ret
 **NextScene - Transformer-based Recommendation System**
 Sequence-based movie recommender built with FastAPI and Next.js, powered by a PyTorch causal transformer trained on MovieLens 20M. CLIP embeddings and vector retrieval surface candidates; optional LightGBM re-ranking and plain-language explanations refine every pick.
 
-`React` `FastAPI` `SSE` `Multi-Provider LLM`
+`Recommendation-system` `Transformers` `PyTorch` `recsys`
+
+
 
 </td>
 </tr>
