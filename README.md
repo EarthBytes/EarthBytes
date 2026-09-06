@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Cate</h1>
 
 <h3 align="center">
-  Software Engineer &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Geoscience & CS @ Durham University
+  Software Engineer &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Geoscience @ Durham University
 </h3>
 
 <p align="center">
