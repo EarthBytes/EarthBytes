@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+and+shipping+production+software;Full-stack+systems%2C+backend+platforms+%26+cloud+infrastructure;Applying+AI+%26+ML+to+real-world+problems;Currently%3A+Lead+Software+Developer+%40+DUWiT+Hacks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+and+shipping+production+software;Full-stack+systems%2C+backend+platforms+%26+cloud+infrastructure;Applying+AI+%26+ML+to+real-world+problems;Currently%3A+Lead+Software+Developer+%40+DUWiT+Hacks" alt="Typing SVG" />
 </p>
 
 <p align="center">
