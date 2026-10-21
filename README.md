@@ -18,7 +18,7 @@
 
 ### About
 
-I'm a software engineer interested in building and shipping end-to-end systems, from frontend applications and backend APIs to databases, cloud infrastructure and CI/CD.
+I'm an aspiring software engineer interested in building and shipping end-to-end systems, from frontend applications and backend APIs to databases, cloud infrastructure and CI/CD.
 
 My work spans full-stack development, distributed backend systems, cloud deployment and production infrastructure. Alongside software engineering, I have strong interests and hands-on experience in AI and machine learning, including LLM applications, RAG systems, recommendation systems, computer vision and deep learning.
 
